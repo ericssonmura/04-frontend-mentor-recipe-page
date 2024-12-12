@@ -14,8 +14,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: (https://github.com/ericssonmura/front-end-mentor-recipe-page)
-- Live Site URL:(https://ericssonmura.github.io/front-end-mentor-recipe-page/)
+- Solution URL: (https://github.com/ericssonmura/frontend-mentor-recipe-page)
+- Live Site URL:(https://ericssonmura.github.io/frontend-mentor-recipe-page/)
 
 ## My process
 
